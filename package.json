@@ -1,0 +1,22 @@
+{
+  "name": "firstnodeproject",
+  "version": "1.0.0",
+  "description": "first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmosilva/FirstNodeProject.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "Carlos Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmosilva/FirstNodeProject/issues"
+  },
+  "homepage": "https://github.com/cmosilva/FirstNodeProject#readme"
+}
