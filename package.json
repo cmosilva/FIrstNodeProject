@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/cmosilva/FirstNodeProject/issues"
   },
-  "homepage": "https://github.com/cmosilva/FirstNodeProject#readme"
+  "homepage": "https://github.com/cmosilva/FirstNodeProject#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
 }
